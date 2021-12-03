@@ -37,7 +37,7 @@
 <span><a href="https://www.oracle.com/database/technologies/"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"></a></span>
 <span><a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"></a></span>
 
-## Cloud
+### Cloud
 <span><a href="https://aws.amazon.com/ko/"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"></a></span>
 
 ### OS
