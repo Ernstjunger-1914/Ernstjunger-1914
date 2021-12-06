@@ -29,7 +29,7 @@
 ### Frameworks
 <span><a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"></a></span>
 <span><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></a></span>
-<span><a href="https://spring.io/"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a></span>
+<span><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a></span>
 
 ### DB
 <span><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"></a></span>
@@ -43,7 +43,7 @@
 ### OS
 <span><a href="https://www.centos.org/"><img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"></a></span>
 <span><a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"></a></span>
-<span><a href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a></span>
+<span><a href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"></a></span>
 
 ## SNS
 <span><a href="https://blog.naver.com/vot768/"><img src="https://img.shields.io/badge/Naver Blog-03C75A?logo=Naver&logoColor=white"></a></span>
