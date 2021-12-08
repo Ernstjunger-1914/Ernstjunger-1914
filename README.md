@@ -24,6 +24,7 @@
 <span><a href="https://www.oracle.com/kr/java/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a></span>
 <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"></span>
 <span><a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"></a></span>
+<span><a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white"></a></span>
 <span><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a></span>
 
 ### Frameworks
