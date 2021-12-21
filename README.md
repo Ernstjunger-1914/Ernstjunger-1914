@@ -11,7 +11,8 @@
 
 ## Solved
 <span>[![solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=notfound404)](https://solved.ac/notfound404)</span>
-<span>[![solved.ac Profile](https://cf.leed.at/?id=notfound404)](https://codeforces.com/profile/notfound404)</span>
+<span>![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=notfound404&theme=cold)</span>
+<span>[![Codeforces Profile](https://cf.leed.at/?id=notfound404)](https://codeforces.com/profile/notfound404)</span>
 
 ## Stats
 <span>![Contribution](https://github-readme-stats.vercel.app/api?username=Ernstjunger-1914&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)</span>
