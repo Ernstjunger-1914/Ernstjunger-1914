@@ -1,11 +1,12 @@
 ## Ernstjunger-1914
 ```js
 {
-	id: "Ernstjunger-1914",
+	_id: "Ernstjunger-1914",
 	aka: [
 		"손소독",
 		"SSD"
-	]
+	],
+	message: "여러 가지에 흥미를 느끼며 그에 따라 개발한 것이나 공부한 것의 일부를 업로드합니다.\\n"
 }
 ```
 
