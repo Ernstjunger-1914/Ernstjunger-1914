@@ -31,6 +31,7 @@
 
 ### Frameworks
 <span><a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"></a></span>
+<span><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"></a></span>
 <span><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></a></span>
 <span><a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a></span>
 
