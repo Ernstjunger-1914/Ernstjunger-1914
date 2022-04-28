@@ -1,12 +1,12 @@
 ## Ernstjunger-1914
-```js
+```json
 {
-	_id: "Ernstjunger-1914",
-	aka: [
+	"_id": "Ernstjunger-1914",
+	"aka": [
 		"손소독",
 		"SSD"
 	],
-	message: "여러 가지에 흥미를 느끼며 그에 따라 개발한 것이나 공부한 것의 일부를 업로드합니다.\\n"
+	"message": "여러 가지에 흥미를 느끼며 그에 따라 개발한 것이나 공부한 것의 일부를 업로드합니다.\\n"
 }
 ```
 
@@ -24,6 +24,7 @@
 <span><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></span>
 <span><a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></a></span>
 <span><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a></span>
+<span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
 
 ### Frameworks, Platform..
 <span><a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"></a></span>
